@@ -1,4 +1,4 @@
-- hosts: ansible-playground
+- hosts: load-balancers
   become: yes
   become_user: root
   become_method: sudo
