@@ -5,3 +5,5 @@
   roles:
     - role: haproxy
       haproxy_version: '1.8'
+    - role: keepalived
+      keepalived_version: 'v2.0.7'
