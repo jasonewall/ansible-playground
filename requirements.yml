@@ -2,3 +2,5 @@
   name: haproxy
 - src: oefenweb.keepalived
   name: keepalived
+- src: marvinpinto.plex
+  name: marvinpinto.plex
